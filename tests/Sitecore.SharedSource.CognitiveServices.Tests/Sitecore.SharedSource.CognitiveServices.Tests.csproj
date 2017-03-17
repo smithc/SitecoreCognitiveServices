@@ -134,10 +134,6 @@
       <HintPath>..\..\packages\Sitecore.Mvc.NoReferences.8.2.160729\lib\NET452\Sitecore.Mvc.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="SpeechClient, Version=0.0.0.0, Culture=neutral, processorArchitecture=x86">
-      <HintPath>..\..\packages\Microsoft.ProjectOxford.SpeechRecognition-x86.1.0.0.1\lib\SpeechClient.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.Composition" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
